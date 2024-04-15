@@ -14,7 +14,7 @@ This project contains a Ethereum-based Real Estate NFT Web App developed by Favo
 
 ## Setting Up
 ### 1. Clone/Download the Repository
-- Clone the repository: git clone <>
+- Clone the repository: git clone <https://github.com/favourozogbu/propertytokens.git>
 - Navigate to the project directory: cd propertytokens
 
 ### 2. Install Dependencies:
@@ -37,4 +37,4 @@ In a separate terminal execute:
 `$ npm run build`
 
 ## Contributor
-- [Favour Ozogbu] (https://github.com/fso2000)
+- [Favour Ozogbu] (https://github.com/favourozogbu)
