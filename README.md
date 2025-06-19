@@ -67,7 +67,7 @@ In a separate terminal execute:
 
 **Favour S. Ozogbu**  
 📧 favoursozogbu@gmail.com  
-🔗 [Favour Ozogbu](https://github.com/favourozogbu)
+🔗 [GitHub](https://github.com/favourozogbu)
 🔗 [LinkedIn](https://www.linkedin.com/in/favourozogbu)
 
 
