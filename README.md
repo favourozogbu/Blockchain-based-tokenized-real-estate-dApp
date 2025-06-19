@@ -38,4 +38,4 @@ In a separate terminal execute:
 
 ## Author
 - [Favour Ozogbu] (https://github.com/favourozogbu)
-- [LinkeIn] (https://www.linkedin.com/in/favourozogbu/)
+- [LinkedIn] (https://www.linkedin.com/in/favourozogbu/)
