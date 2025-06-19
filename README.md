@@ -36,5 +36,6 @@ In a separate terminal execute:
 ### 8. For a production build (Optional)
 `$ npm run build`
 
-## Contributor
+## Author
 - [Favour Ozogbu] (https://github.com/favourozogbu)
+- [LinkeIn] (https://www.linkedin.com/in/favourozogbu/)
