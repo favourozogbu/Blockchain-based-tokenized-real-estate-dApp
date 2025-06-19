@@ -64,7 +64,7 @@ In a separate terminal execute:
 *Coming soon*
 
 ## 👨‍💻 Author's Contact   
-### For collaboration or freelance work:
+**For collaboration or freelance work:**
 
 **Favour S. Ozogbu**   
 📧 favoursozogbu@gmail.com  
